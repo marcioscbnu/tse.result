@@ -1,0 +1,191 @@
+{
+  "AC": {
+    "apurado": 100,
+    "top2": [
+      { "nome": "Candidato A", "votos": 120000, "percentual": 52.0 },
+      { "nome": "Candidato B", "votos": 110000, "percentual": 48.0 }
+    ]
+  },
+  "AL": {
+    "apurado": 85,
+    "top2": [
+      { "nome": "Candidato C", "votos": 95000, "percentual": 54.0 },
+      { "nome": "Candidato D", "votos": 81000, "percentual": 46.0 }
+    ]
+  },
+  "AM": {
+    "apurado": 70,
+    "top2": [
+      { "nome": "Candidato E", "votos": 88000, "percentual": 51.0 },
+      { "nome": "Candidato F", "votos": 84000, "percentual": 49.0 }
+    ]
+  },
+  "AP": {
+    "apurado": 60,
+    "top2": [
+      { "nome": "Candidato G", "votos": 45000, "percentual": 55.0 },
+      { "nome": "Candidato H", "votos": 37000, "percentual": 45.0 }
+    ]
+  },
+  "BA": {
+    "apurado": 90,
+    "top2": [
+      { "nome": "Candidato I", "votos": 300000, "percentual": 53.0 },
+      { "nome": "Candidato J", "votos": 265000, "percentual": 47.0 }
+    ]
+  },
+  "CE": {
+    "apurado": 95,
+    "top2": [
+      { "nome": "Candidato K", "votos": 210000, "percentual": 57.0 },
+      { "nome": "Candidato L", "votos": 158000, "percentual": 43.0 }
+    ]
+  },
+  "DF": {
+    "apurado": 100,
+    "top2": [
+      { "nome": "Candidato M", "votos": 130000, "percentual": 50.5 },
+      { "nome": "Candidato N", "votos": 127000, "percentual": 49.5 }
+    ]
+  },
+  "ES": {
+    "apurado": 75,
+    "top2": [
+      { "nome": "Candidato O", "votos": 98000, "percentual": 52.0 },
+      { "nome": "Candidato P", "votos": 91000, "percentual": 48.0 }
+    ]
+  },
+  "GO": {
+    "apurado": 80,
+    "top2": [
+      { "nome": "Candidato Q", "votos": 150000, "percentual": 54.0 },
+      { "nome": "Candidato R", "votos": 128000, "percentual": 46.0 }
+    ]
+  },
+  "MA": {
+    "apurado": 65,
+    "top2": [
+      { "nome": "Candidato S", "votos": 120000, "percentual": 58.0 },
+      { "nome": "Candidato T", "votos": 87000, "percentual": 42.0 }
+    ]
+  },
+  "MG": {
+    "apurado": 85,
+    "top2": [
+      { "nome": "Candidato U", "votos": 400000, "percentual": 51.0 },
+      { "nome": "Candidato V", "votos": 385000, "percentual": 49.0 }
+    ]
+  },
+  "MS": {
+    "apurado": 70,
+    "top2": [
+      { "nome": "Candidato W", "votos": 95000, "percentual": 53.0 },
+      { "nome": "Candidato X", "votos": 84000, "percentual": 47.0 }
+    ]
+  },
+  "MT": {
+    "apurado": 60,
+    "top2": [
+      { "nome": "Candidato Y", "votos": 88000, "percentual": 56.0 },
+      { "nome": "Candidato Z", "votos": 69000, "percentual": 44.0 }
+    ]
+  },
+  "PA": {
+    "apurado": 75,
+    "top2": [
+      { "nome": "Candidato AA", "votos": 150000, "percentual": 52.0 },
+      { "nome": "Candidato BB", "votos": 138000, "percentual": 48.0 }
+    ]
+  },
+  "PB": {
+    "apurado": 80,
+    "top2": [
+      { "nome": "Candidato CC", "votos": 97000, "percentual": 55.0 },
+      { "nome": "Candidato DD", "votos": 79000, "percentual": 45.0 }
+    ]
+  },
+  "PE": {
+    "apurado": 90,
+    "top2": [
+      { "nome": "Candidato EE", "votos": 210000, "percentual": 53.0 },
+      { "nome": "Candidato FF", "votos": 185000, "percentual": 47.0 }
+    ]
+  },
+  "PI": {
+    "apurado": 70,
+    "top2": [
+      { "nome": "Candidato GG", "votos": 88000, "percentual": 54.0 },
+      { "nome": "Candidato HH", "votos": 75000, "percentual": 46.0 }
+    ]
+  },
+  "PR": {
+    "apurado": 85,
+    "top2": [
+      { "nome": "Candidato II", "votos": 220000, "percentual": 52.0 },
+      { "nome": "Candidato JJ", "votos": 200000, "percentual": 48.0 }
+    ]
+  },
+  "RJ": {
+    "apurado": 65,
+    "top2": [
+      { "nome": "Candidato KK", "votos": 321000, "percentual": 60.0 },
+      { "nome": "Candidato LL", "votos": 214000, "percentual": 40.0 }
+    ]
+  },
+  "RN": {
+    "apurado": 75,
+    "top2": [
+      { "nome": "Candidato MM", "votos": 95000, "percentual": 53.0 },
+      { "nome": "Candidato NN", "votos": 84000, "percentual": 47.0 }
+    ]
+  },
+  "RO": {
+    "apurado": 70,
+    "top2": [
+      { "nome": "Candidato OO", "votos": 88000, "percentual": 51.0 },
+      { "nome": "Candidato PP", "votos": 84000, "percentual": 49.0 }
+    ]
+  },
+  "RR": {
+    "apurado": 60,
+    "top2": [
+      { "nome": "Candidato QQ", "votos": 45000, "percentual": 55.0 },
+      { "nome": "Candidato RR", "votos": 37000, "percentual": 45.0 }
+    ]
+  },
+  "RS": {
+    "apurado": 90,
+    "top2": [
+      { "nome": "Candidato SS", "votos": 300000, "percentual": 53.0 },
+      { "nome": "Candidato TT", "votos": 265000, "percentual": 47.0 }
+    ]
+  },
+  "SC": {
+    "apurado": 90,
+    "top2": [
+      { "nome": "Candidato UU", "votos": 210000, "percentual": 51.0 },
+      { "nome": "Candidato VV", "votos": 202000, "percentual": 49.0 }
+    ]
+  },
+  "SE": {
+    "apurado": 85,
+    "top2": [
+      { "nome": "Candidato WW", "votos": 95000, "percentual": 54.0 },
+      { "nome": "Candidato XX", "votos": 81000, "percentual": 46.0 }
+    ]
+  },
+  "SP": {
+    "apurado": 80,
+    "top2": [
+      { "nome": "Candidato YY", "votos": 543210, "percentual": 55.1 },
+      { "nome": "Candidato ZZ", "votos": 432100, "percentual": 44.9 }
+    ]
+  },
+  "TO": {
+    "apurado": 70,
+    "top2": [
+      { "nome": "Candidato AAA", "votos": 88000, "percentual": 56.0 },
+      { "nome": "Candidato BBB", "votos": 69000, "percentual": 44.0 }
+    ]
+  }
+}
